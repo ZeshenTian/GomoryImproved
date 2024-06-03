@@ -26,7 +26,7 @@ Convert the vectors `b` and `c` and every value in the matrix `A` from string ty
 4. After the search is completed, output all optimal solutions.
 
 ### Experiments
-We used a total of five test cases. First, we used two test cases from the original paper to verify that the algorithm can solve multiple optimal solutions, as follows:
+We used a total of five test cases. First, we used two test cases to verify that the algorithm can solve multiple optimal solutions, as follows:
 
 ```
 c = [-10, -20]
