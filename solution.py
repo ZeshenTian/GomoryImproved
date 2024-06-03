@@ -27,7 +27,7 @@ b = data_pre(b)
 for i in range(len(A)):
     A[i] = data_pre(A[i])
 
-# --------------------------cases in the paper--------------------------
+# --------------------------reference cases(verify multiple solutions)--------------------------
 # c = [-10, -20]
 # b = [3, 8, 4]
 # A = [[0.25, 0.4], [1, 0], [0, 1]]
@@ -35,7 +35,7 @@ for i in range(len(A)):
 # c=[-1,-1]
 # b=[6,20]
 # A=[[2,1],[4,5]]
-# --------------------------cases in the paper--------------------------
+# --------------------------reference cases(verify multiple solutions)--------------------------
 
 # --------------------------reference cases(verify mixed integer programming)--------------------------
 # c = [-2,-3,-4]
